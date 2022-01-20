@@ -1,0 +1,25 @@
+{
+  "name": "03-project",
+  "version": "1.0.0",
+  "description": "Ejemplo de proyecto frontened`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anchounio/03-project.git"
+  },
+  "keywords": [
+    "CSS",
+    "HTML",
+    "Web"
+  ],
+  "author": "Toni Clemente",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anchounio/03-project/issues"
+  },
+  "homepage": "https://github.com/anchounio/03-project#readme"
+  
+}
